@@ -734,6 +734,10 @@ video {
   border-radius: 10px;
 }
 
+.rounded-\[20px\] {
+  border-radius: 20px;
+}
+
 .rounded-l-\[30px\] {
   border-top-left-radius: 30px;
   border-bottom-left-radius: 30px;
@@ -741,6 +745,10 @@ video {
 
 .border-2 {
   border-width: 2px;
+}
+
+.border {
+  border-width: 1px;
 }
 
 .border-solid {
